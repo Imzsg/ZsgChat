@@ -1,6 +1,6 @@
 # ZsgChat
 
-《Zsg》是由Imzsg自主研发的一款全新没有GUI的聊天软件。
+《ZsgChat》是由Imzsg自主研发的一款全新没有GUI的聊天软件。
 
 ## 下载
 1、下载release里的ZsgChat.jar和Start.bat
